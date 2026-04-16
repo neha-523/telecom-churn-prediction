@@ -19,7 +19,7 @@ data/raw/
 models/
 
 # Generated reports
-reports/model_report.txt
+reports/
 
 # OS
 .DS_Store
